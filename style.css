@@ -1,0 +1,11 @@
+.inner{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    border: 2px;
+    border-color: black;
+}
